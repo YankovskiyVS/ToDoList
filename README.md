@@ -19,4 +19,4 @@ ____
 2. __Add__ the tasks;
 4. __Mark__ every task (marked: _[X]_; unmarked: _[X]_) when you completed it;
 5. __Delete__ the task if you do not need it anymore;
-6. __Clear__ all the list if you want to make it from scratch.
+6. __Clear__ the task list if you want to make it from scratch.
