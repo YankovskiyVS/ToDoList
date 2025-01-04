@@ -1,6 +1,6 @@
 # ToDoList
 
-Track your plans right frome the computer concole
+Track your plans right from the computer concole
 
 To start with:
 
