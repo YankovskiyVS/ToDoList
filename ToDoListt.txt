@@ -1,0 +1,5 @@
+Add Task: Append a new task to the list.
+List Tasks: Display tasks with their status.
+Mark as Completed: Update the status of a task.
+Delete Task: Remove a task by its index.
+Save/Load Tasks: Use a JSON file to store and retrieve tasks.
