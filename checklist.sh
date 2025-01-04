@@ -1,4 +1,4 @@
-#!/opt/homebrew/bin/bash
+#!/bin/bash
 printf "Create your own To-do list\n"
 printf "To-do list app\t"
 printf "Version: 1.0.0\n"
