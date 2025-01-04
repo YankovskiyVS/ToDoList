@@ -1,5 +1,5 @@
 # ToDoList
-
+____
 Track your plans right from the computer concole
 ----
 
@@ -12,13 +12,14 @@ In the concole type: `chmod +x ./checklist.sh`
 Download the `to_do_list.py` file in the same directory
 
 ____
-Now you can use the app!
+## Now you can use the app!
 
 Just type `./checklist.sh` every time you want to check the tasks or add more of them
 ____
 
 ## ToDoList app functionality:
-1. Add the tasks you have
-2. Delete the task if you do not need it anymore
-3. Clear all the list if you want to make it from scratch
-4. Mark every task (marked: __[X]__: unmarked: __[X]__) when you completed it 
+1.__List__ the tasks you already have;
+2. __Add__ the tasks;
+3. __Mark__ every task (marked: _[X]_: unmarked: _[X]_) when you completed it;
+4. __Delete__ the task if you do not need it anymore;
+5. __Clear__ all the list if you want to make it from scratch.
