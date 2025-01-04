@@ -2,7 +2,7 @@
 
 Track your plans right from the computer concole
 
-## To start with:
+## To start with
 
 Download the `checklist.sh` file (must have bash shell)
 
@@ -14,7 +14,7 @@ ____
 
 Just type `./checklist.sh` every time you want to check the tasks or add more of them
 ____
-## ToDoList app functionality:
+## ToDoList app functionality
 1. __List__ the tasks you already have;
 2. __Add__ the tasks;
 4. __Mark__ every task (marked: _[X]_; unmarked: _[X]_) when you completed it;
