@@ -5,10 +5,13 @@ Track your plans right from the computer concole
 To start with:
 
 download the checklist.sh file (must have bash shell)
+
 in the concole type: chmod +x ./checklist.sh
+
 download the to_do_list.py file in the same directory
 
 Now you can use the app!
+
 Just type ./checklist.sh every time you want to check the tasks or add more of them
 
 ToDoList app functionality:
