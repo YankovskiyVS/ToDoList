@@ -17,6 +17,6 @@ ____
 ## ToDoList app functionality
 1. __List__ the tasks you already have;
 2. __Add__ the tasks;
-4. __Mark__ every task (marked: _[X]_; unmarked: _[ ]_) when you completed it;
+4. __Mark__ every task (marked: _[X]_; unmarked: _[  ]_) when you completed it;
 5. __Delete__ the task if you do not need it anymore;
 6. __Clear__ the task list if you want to make it from scratch.
