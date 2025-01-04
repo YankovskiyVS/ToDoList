@@ -3,9 +3,9 @@
 Track your plans right from the computer concole
 ----
 
-To start with:
+##To start with:
 
-download the checklist.sh file (must have bash shell)
+download the `checklist.sh` file (must have bash shell)
 
 in the concole type: chmod +x ./checklist.sh
 
